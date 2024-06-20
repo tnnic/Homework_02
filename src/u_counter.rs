@@ -1,4 +1,4 @@
-
+#![allow(dead_code)]
 pub type UnsignedCounter = usize;
 
 pub fn default_unsigned_counter() -> UnsignedCounter {

@@ -1,4 +1,4 @@
-
+#![allow(dead_code)]
 pub const VEC3_LEN: usize = 3;
 pub type Vec3 = [i32; VEC3_LEN];
 
