@@ -1,4 +1,4 @@
-#![allow(dead_code)]
+
 pub type SignedCounter = isize;
 
 pub fn default_signed_counter() -> SignedCounter {
